@@ -4,8 +4,10 @@ import math
 #initialize constants
 u1=0.2
 e1=4000
-print("What is I")
-i1=int(input())
+
+#i calculator
+
+#
 
 #sigmacr
 def scr(k,e,n,t,b,a):
